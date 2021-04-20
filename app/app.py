@@ -17,7 +17,7 @@ def cities_import() -> List[Dict]:
     connection = mysql.connector.connect(**config)
     cursor = connection.cursor(dictionary=True)
 
-    cursor.execute("SELECT *tblCitiesImport FROM ")
+    cursor.execute('SELECT * FROM tblCitiesImport')
     result = cursor.fetchall()
 
     cursor.close()
@@ -34,4 +34,4 @@ def index() -> str:
 
 
 if __name__ == '__main__':
-    app.run(host='localhost')
+    app.run(host='0.0.0.0')
