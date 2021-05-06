@@ -11,6 +11,8 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 # Part2 Screenshot 
 ![localhost screenshot](screenshots/part2.png)
 
+#Part3
+
 # a)The project showing that you can view your data tables in pycharm.
 ![Data_table_pycharm](./screenshots/a.png)
 # b)The project running correctly in the browser displaying your homepage with your data
@@ -26,5 +28,5 @@ page
 ![Update_record](./screenshots/e1.png)
 # f)The project running correctly in the browser displaying a deleted record added to your home 
 page
-![delete_record](./screenshots/f.jpeg)
-![delete_record](./screenshots/f1.jpeg)
+![delete_record](./screenshots/f.png)
+![delete_record](./screenshots/f1.png)
