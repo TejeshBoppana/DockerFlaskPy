@@ -23,10 +23,10 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![new_record_create](./screenshots/d.png)
 ![new_record_added](./screenshots/d1.png)
 # e)The project running correctly in the browser displaying an updated record added to your home 
-page
+# page
 ![Update_record](./screenshots/e.png)
 ![Update_record](./screenshots/e1.png)
 # f)The project running correctly in the browser displaying a deleted record added to your home 
-page
+# page
 ![delete_record](./screenshots/f.png)
 ![delete_record](./screenshots/f1.png)
